@@ -1,0 +1,79 @@
+{
+    "1": {
+        "loss": 0.3906888033408346,
+        "train_accuracy": 86.45666666666666,
+        "test_accuracy": 90.17
+    },
+    "2": {
+        "loss": 0.2504678240367599,
+        "train_accuracy": 91.01666666666667,
+        "test_accuracy": 92.09
+    },
+    "3": {
+        "loss": 0.22002032586633524,
+        "train_accuracy": 92.14666666666666,
+        "test_accuracy": 92.67
+    },
+    "4": {
+        "loss": 0.19803671696102187,
+        "train_accuracy": 92.91666666666667,
+        "test_accuracy": 92.96
+    },
+    "5": {
+        "loss": 0.1845051594443921,
+        "train_accuracy": 93.35166666666667,
+        "test_accuracy": 93.16
+    },
+    "6": {
+        "loss": 0.17173039888554037,
+        "train_accuracy": 93.8,
+        "test_accuracy": 93.6
+    },
+    "7": {
+        "loss": 0.165993877462169,
+        "train_accuracy": 93.99166666666666,
+        "test_accuracy": 93.13
+    },
+    "8": {
+        "loss": 0.15833012813698255,
+        "train_accuracy": 94.28666666666666,
+        "test_accuracy": 93.71
+    },
+    "9": {
+        "loss": 0.14937916588284442,
+        "train_accuracy": 94.57166666666667,
+        "test_accuracy": 93.95
+    },
+    "10": {
+        "loss": 0.14573007320036005,
+        "train_accuracy": 94.77,
+        "test_accuracy": 93.81
+    },
+    "11": {
+        "loss": 0.1367711641196249,
+        "train_accuracy": 95.04666666666667,
+        "test_accuracy": 93.83
+    },
+    "12": {
+        "loss": 0.13187944549900382,
+        "train_accuracy": 95.16333333333333,
+        "test_accuracy": 94.19
+    },
+    "13": {
+        "loss": 0.12796179293347065,
+        "train_accuracy": 95.43333333333334,
+        "test_accuracy": 94.2
+    },
+    "14": {
+        "loss": 0.12378713172445419,
+        "train_accuracy": 95.50166666666667,
+        "test_accuracy": 94.02
+    },
+    "15": {
+        "loss": 0.1199953619208036,
+        "train_accuracy": 95.55666666666667,
+        "test_accuracy": 94.14
+    },
+    "total_time": "23 minutes and 29.85 seconds",
+    "best_accuracy": 94.2
+}

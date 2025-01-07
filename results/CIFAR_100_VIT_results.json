@@ -1,0 +1,59 @@
+{
+    "1": {
+        "loss": 1.220992014383721,
+        "train_accuracy": 70.266,
+        "test_accuracy": 77.77
+    },
+    "2": {
+        "loss": 0.7030088105012694,
+        "train_accuracy": 79.508,
+        "test_accuracy": 79.66
+    },
+    "3": {
+        "loss": 0.605594928459743,
+        "train_accuracy": 82.176,
+        "test_accuracy": 80.71
+    },
+    "4": {
+        "loss": 0.5506885522771674,
+        "train_accuracy": 83.84,
+        "test_accuracy": 81.1
+    },
+    "5": {
+        "loss": 0.5061599486471747,
+        "train_accuracy": 84.822,
+        "test_accuracy": 81.03
+    },
+    "6": {
+        "loss": 0.4761710428368405,
+        "train_accuracy": 85.75,
+        "test_accuracy": 81.35
+    },
+    "7": {
+        "loss": 0.45202509445302624,
+        "train_accuracy": 86.492,
+        "test_accuracy": 81.47
+    },
+    "8": {
+        "loss": 0.43783376348750364,
+        "train_accuracy": 87.174,
+        "test_accuracy": 81.6
+    },
+    "9": {
+        "loss": 0.4253565126367847,
+        "train_accuracy": 87.486,
+        "test_accuracy": 81.48
+    },
+    "10": {
+        "loss": 0.421330312405096,
+        "train_accuracy": 87.724,
+        "test_accuracy": 81.53
+    },
+    "11": {
+        "loss": 0.418678098284375,
+        "train_accuracy": 87.798,
+        "test_accuracy": 81.53
+    },
+    "total_time": "1 hours, 35 minutes, and 55.27 seconds",
+    "best_accuracy": 81.6
+}
