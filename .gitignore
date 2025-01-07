@@ -1,2 +1,2 @@
 # trained models: (because of their huge size)
-./trained_models/
+trained_model/*.pth
